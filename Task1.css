@@ -29,21 +29,21 @@ main {
 }
 
 .step1-image {
-  background-image: url(flow01.png);
+  background-image: url(img/flow01.png);
   height: 150px;
   background-position: bottom;
   background-size: cover;
 }
 
 .step2-image {
-  background-image: url(flow02.png);
+  background-image: url(img/flow02.png);
   height: 150px;
   background-position: bottom;
   background-size: cover;
 }
 
 .step3-image {
-  background-image: url(flow03.png);
+  background-image: url(img/flow03.png);
   height: 150px;
   background-position: bottom;
   background-size: cover;
